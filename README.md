@@ -1,2 +1,2 @@
 # bookclub
-Bookclub flutter app
+A Flutter bookclub app
